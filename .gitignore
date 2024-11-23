@@ -1,0 +1,7 @@
+*.env
+*.pdf
+*.png
+*.pt
+*.pkl
+chainThePrompts.py
+llm_engineering
